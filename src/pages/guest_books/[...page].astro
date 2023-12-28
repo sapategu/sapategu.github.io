@@ -5,13 +5,15 @@ import { getCollection } from "astro:content";
 
 export async function getStaticPaths({ paginate }) {
   const items = await getCollection("store");
-  items.sort((a, b) => b.data.updatedDate.valueOf() - a.data.updatedDate.valueOf());
+  items.sort(
+    (a, b) => b.data.updatedDate.valueOf() - a.data.updatedDate.valueOf()
+  );
   return paginate(items, { pageSize: 10 });
 }
 const { page } = Astro.props;
 ---
 
-<BaseLayout title="Store" sideBarActiveItemID="store">
+<BaseLayout title="Store" sideBarActiveItemID="guest-books">
   <ul>
     {
       page.data.map((item) => (
