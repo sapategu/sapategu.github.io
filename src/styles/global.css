@@ -1,3 +1,9 @@
 .time-line-container>div:last-child .education__time>.education__line {
     display: none;
 }
+
+.image-size{
+    width: 300px;
+    height: 169px;
+    object-fit: contain;
+}
