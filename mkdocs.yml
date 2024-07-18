@@ -1,9 +1,7 @@
-site_name: sapategu
+site_name: Welcome to sapategu pages
 site_url: https://sapategu.github.io/
-
 nav:
     - Home: index.md
-
 
 ############# Docs Configurations ################
 theme:
