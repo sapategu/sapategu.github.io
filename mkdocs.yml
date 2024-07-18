@@ -2,6 +2,8 @@ site_name: Welcome to sapategu pages
 site_url: https://sapategu.github.io/
 nav:
     - Home: index.md
+    - Blog:
+      - Go for Neural Nets: blog/go-for-nn.md
 
 ############# Docs Configurations ################
 theme:
@@ -16,7 +18,7 @@ theme:
     - content.code.copy
     - content.tooltips
     - navigation.top
-    - navigation.tabs
+    # - navigation.tabs
     - navigation.footer
     - navigation.indexes
     - search.highlight
