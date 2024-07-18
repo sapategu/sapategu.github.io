@@ -9,3 +9,4 @@
 - fromthehttp: [sapategu.github.io/fromthehttp/](https://sapategu.github.io/fromthehttp/)
 - mlopsency: link will attach later
 - llvm-clang: link will attach later
+- ComputeGenie: explanation later
