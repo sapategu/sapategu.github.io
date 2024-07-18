@@ -1,5 +1,5 @@
 site_name: sapategu
-site_url: https://sapategu.github.io
+site_url: https://sapategu.github.io/home/
 
 nav:
     - Home: index.md
