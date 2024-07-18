@@ -1,5 +1,5 @@
 site_name: sapategu
-site_url: https://sapategu.github.io/home/
+site_url: https://sapategu.github.io/
 
 nav:
     - Home: index.md
@@ -21,7 +21,6 @@ theme:
     - navigation.tabs
     - navigation.footer
     - navigation.indexes
-    - navigation.path
     - search.highlight
     - search.suggest
     - toc.follow
