@@ -1,5 +1,5 @@
-site_name: fromthenets
-site_url: https://sapategu.github.io/fromthenets/
+site_name: sapategu
+site_url: https://sapategu.github.io
 
 nav:
     - Home: index.md
