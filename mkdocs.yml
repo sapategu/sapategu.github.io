@@ -1,5 +1,5 @@
 site_name: Welcome to sapategu pages
-site_url: https://sapategu.github.io/
+site_url: https://sapategu.github.io
 nav:
     - Home: index.md
     - Blog:

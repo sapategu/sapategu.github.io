@@ -8,5 +8,5 @@
 - fromthenets: [sapategu.github.io/fromthenets/](https://sapategu.github.io/fromthenets/)
 - fromthehttp: [sapategu.github.io/fromthehttp/](https://sapategu.github.io/fromthehttp/)
 - mlopsency: link will attach later
-- llvm-clang: link will attach later
+- fromthegates: [sapategu.github.io/fromthegates/](https://sapategu.github.io/fromthegates/)
 - ComputeGenie: explanation later
