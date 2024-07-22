@@ -1,4 +1,4 @@
-name: Deploy MkDocs as GitHub Pages
+name: Deploy MkDocs to GitHub Pages
 
 on:
   push:
